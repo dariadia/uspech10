@@ -1,6 +1,6 @@
 Express, React/Redux, MySQL App
 
-[Boilerplate](https://github.com/Bikranshu/express-react-boilerplate)
+[Boilerplate](https://github.com/Bikranshu/express-react-boilerplate) courtesy of [Bikranshu](https://github.com/Bikranshu)
 
 # About the App
 
