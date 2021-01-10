@@ -33,13 +33,13 @@ WIP, to be updated
 #### For development:
 
 ```
-$ npm run build (For development)
+$ npm run build:dev (For development)
 ```
 
 #### For production:
 
 ```
-$ npm run build:prod (For production)
+$ npm run build (For production)
 ```
 
 Open [http://localhost:3000/](http://localhost:3000/)
